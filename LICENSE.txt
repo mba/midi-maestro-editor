@@ -1,0 +1,48 @@
+MIDI Maestro Editor – Licence / Lizenz
+Copyright (c) 2026 Matthias Baume. All rights reserved.
+
+ENGLISH
+
+1. Use
+   MIDI Maestro Editor is freeware. You may use it free of charge, privately and commercially (e.g. on stage
+   or in the studio), on any number of computers.
+
+2. Passing it on
+   You may pass on the unchanged download package (program, manuals, LICENSE.txt and
+   THIRD-PARTY-NOTICES.txt) free of charge. Please preferably link to the project page:
+   https://github.com/mba/midi-maestro-editor
+   Not permitted: selling the program, distributing modified versions, or removing copyright,
+   licence or trademark notices. Decompiling or reverse engineering is only permitted as far as
+   mandatory law allows.
+
+3. Third-party components
+   MIDI Maestro Editor contains open-source components that are used under their own licences (MIT,
+   Apache-2.0 and others). They are listed with their licence texts in THIRD-PARTY-NOTICES.txt.
+   Nothing in this licence restricts the rights those licences grant you.
+
+4. Product photos and trademarks
+   The product photos of the MIDI Maestro and the Footswitch+ are used with kind permission of Singular Sound.
+   The photos remain the property of their owners. They are not covered by this licence and may
+   not be extracted from the program or used separately.
+   Singular Sound, MIDI Maestro and Footswitch+ are trademarks of their respective owners.
+   MIDI Maestro Editor is a private project and not an official product of Singular Sound.
+
+5. No warranty
+   The program is provided "as is", without any warranty. Use it at your own risk. Writing to a
+   device overwrites its settings – keep backups of your setups.
+   The author is liable only for intent and gross negligence, and without limitation for injury to
+   life, body or health and under the German Product Liability Act.
+
+6. Applicable law
+   German law applies.
+
+
+DEUTSCH (Kurzfassung – maßgeblich ist der englische Text oben)
+
+MIDI Maestro Editor ist kostenlos (Freeware) und darf privat und beruflich auf beliebig vielen Rechnern
+genutzt werden. Das unveränderte Download-Paket darf kostenlos weitergegeben werden; Verkauf,
+veränderte Fassungen und das Entfernen von Hinweisen sind nicht erlaubt. Enthaltene
+Open-Source-Komponenten unterliegen ihren eigenen Lizenzen (siehe THIRD-PARTY-NOTICES.txt).
+Die Produktfotos werden mit freundlicher Genehmigung von Singular Sound verwendet und sind nicht Teil dieser Lizenz. Die Nutzung erfolgt ohne Gewährleistung und auf eigene Gefahr; die Haftung ist auf
+Vorsatz und grobe Fahrlässigkeit beschränkt (unbeschränkt bei Verletzung von Leben, Körper oder
+Gesundheit und nach dem Produkthaftungsgesetz). Es gilt deutsches Recht.
