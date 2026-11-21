@@ -43,7 +43,8 @@ English, Deutsch, Français, Español
 
 📖 **Manuals:** [Quick Guide (English)](docs/MIDI-Maestro-Editor_Quick-Guide_EN.pdf) ·
 [Kurzanleitung (Deutsch)](docs/MIDI-Maestro-Editor_Kurzanleitung_DE.pdf)
-🎬 **Demo film:** see the assets of the [latest release](../../releases/latest).
+🎬 **Demo film (1:43 min):** [watch on YouTube (English)](https://youtu.be/ta970BqabkQ) ·
+[auf YouTube ansehen (Deutsch)](https://youtu.be/-0VEG37f9Cs)
 
 ## Good to know
 
@@ -77,7 +78,8 @@ Display-Texte, MIDI-Befehle, zwei Zustände pro Taste und Seitensprünge bequem 
 ausprobieren und per Bluetooth ins Pedal schreiben. Ohne Installation, Oberfläche in Deutsch, Englisch,
 Französisch und Spanisch.
 
-**[Download](../../releases/latest)** · [Kurzanleitung (PDF)](docs/MIDI-Maestro-Editor_Kurzanleitung_DE.pdf)
+**[Download](../../releases/latest)** · [Kurzanleitung (PDF)](docs/MIDI-Maestro-Editor_Kurzanleitung_DE.pdf) ·
+[Vorführfilm auf YouTube (1:43 min)](https://youtu.be/-0VEG37f9Cs)
 
 > **Beim ersten Start** zeigt Windows eventuell „Der Computer wurde durch Windows geschützt“. Dann auf
 > **Weitere Informationen → Trotzdem ausführen** klicken (oder vorab: Rechtsklick auf die Exe → Eigenschaften →
