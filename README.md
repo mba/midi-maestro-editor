@@ -9,6 +9,8 @@ try everything out in a live simulation and write it to the pedal via Bluetooth.
 **[⬇ Download the latest version](../../releases/latest)** · Windows 10 / 11 · free · no installation ·
 English, Deutsch, Français, Español
 
+[![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/maba)
+
 ---
 
 ## Features
@@ -59,6 +61,9 @@ English, Deutsch, Français, Español
 
 Found a bug or have an idea? Please open an [issue](../../issues).
 
+☕ **Enjoying the editor?** The MIDI Maestro Editor is free and a private hobby project. If it saves you time,
+you can support it with a coffee: [buymeacoffee.com/maba](https://buymeacoffee.com/maba) – thank you!
+
 ## Licence
 
 The MIDI Maestro Editor is **freeware** – free to use privately and commercially; see [LICENSE.txt](LICENSE.txt).
@@ -79,7 +84,8 @@ ausprobieren und per Bluetooth ins Pedal schreiben. Ohne Installation, Oberfläc
 Französisch und Spanisch.
 
 **[Download](../../releases/latest)** · [Kurzanleitung (PDF)](docs/MIDI-Maestro-Editor_Kurzanleitung_DE.pdf) ·
-[Vorführfilm auf YouTube (1:43 min)](https://youtu.be/-0VEG37f9Cs)
+[Vorführfilm auf YouTube (1:43 min)](https://youtu.be/-0VEG37f9Cs) ·
+☕ [Spendier mir einen Kaffee](https://buymeacoffee.com/maba)
 
 > **Beim ersten Start** zeigt Windows eventuell „Der Computer wurde durch Windows geschützt“. Dann auf
 > **Weitere Informationen → Trotzdem ausführen** klicken (oder vorab: Rechtsklick auf die Exe → Eigenschaften →
